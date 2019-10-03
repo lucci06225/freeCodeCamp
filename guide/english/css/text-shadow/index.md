@@ -51,4 +51,8 @@ Multiple shadows can be used for giving text a solid outline on all 4 directions
 
 MDN Documentation: <a href='https://developer.mozilla.org/en-US/docs/Web/CSS/text-shadow' target='_blank' rel='nofollow'>MDN Web Docs - CSS text-shadow</a>
 
+CSS-Trick: <a href='https://css-tricks.com/almanac/properties/t/text-shadow/' target='_blank' rel='nofollow'>CSS-Tricks - CSS text-shadow</a>
+
+
+
 
