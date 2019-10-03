@@ -69,3 +69,8 @@ else {
     return "Invalid number";
 }
 ```
+
+
+## More Information:
+
+- <a href="https://www.w3schools.com/jsref/jsref_if.asp">W3Schools - JavaScript if/else Statement</a> 
